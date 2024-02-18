@@ -1,0 +1,13 @@
+.pic{
+    border-radius: 20%;
+    height: 375px;
+    width: 450px;
+}
+.container1{
+    background-color: rgb(105, 173, 255);
+}
+.pic1{
+    border-radius: 20%;
+    height: 210px;
+    width: 200px;
+}
